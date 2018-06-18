@@ -1,3 +1,5 @@
+### NOTE: VU🐓only works with macOS, iOS and iCloud calendars, as these are currently the only full-featured implementations of the iCal standard. The script needs tweaks and workarounds to get working on the other platforms. Feel free to fork the repo and do so.
+
 # Timetable Extractor for VU Rooster
 
 This bookmarklet allows you to extract the course schedule information from VU Amsterdam's legacy Rooster web app and export them in iCal format, appropriate for importing in ordinary calendar applications.
